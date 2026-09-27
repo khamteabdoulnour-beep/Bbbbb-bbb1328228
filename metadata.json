@@ -1,0 +1,6 @@
+{
+  "name": "Hikari Manga",
+  "description": "تطبيق هيكاري مانجا لتصفح وقراءة المانجا والمانهوا من مصادر متعددة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
